@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Joachim 👋
 
-- 🔭 I’m working on [Finit](/troglobit/finit), check out the latest releases and [log posts](https://troglobit.com/tags/init/)
+- 🔭 I’m working on [Finit](/troglobit/finit), check out the latest releases and [blog posts](https://troglobit.com/tags/init/)
 - 👯 I’m looking to collaborate on [pim6sd](/troglobit/pim6sd) and 🤔 help with [In-a-dyn](/troglobit/inadyn), because it supports so many DDNS providers ...
 - 💬 Ask me about #multicast 🤓 I maintain many #multicast daemons for UNIX: SMCRoute, pimd, mrouted, pimd-dense, and pimg6sd.  I've also made a few useful testing tools, for example [mcjoin](/troglobit/mcjoin) and [mping](/troglobit/mping)
 - 📫 How to reach me: through my employer, [Addiva Elektronik](https://www.addiva.se/addiva-elektronik/), or patiently wait for me to read my email (sorry)
