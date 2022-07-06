@@ -11,7 +11,7 @@
 🌱 I’m (re)learning how to be a consultant again, after having been at a product company for 15+ years! This means I'm available for contracting though my employer 😎
 
 > ⚡ Fun fact: I usually say I never travel anywhere (expensive + environment), but my code does.
->    I recently got word [SMCRoute](/troglobit/smcroute) was used on the south pole! 😅
+>    I recently got word [SMCRoute](/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😅
 
 ---
 
