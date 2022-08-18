@@ -8,12 +8,12 @@
 This means I'm now available for contracting though my employer 😎
 - 📫 How to reach me: through my employer, [Addiva Elektronik](https://www.addiva.se/addiva-elektronik/), talk to Lennart.  Or patiently wait for me to read my email -- sorry, paying customers or sponsors (!) take precedence. 
 
-- 🔭 I’m working on [Finit](/troglobit/finit), check out the latest releases and [blog posts](https://troglobit.com/tags/init/)
-- 👯 I’m looking to collaborate on [pim6sd](/troglobit/pim6sd) and 🤔 help with [In-a-dyn](/troglobit/inadyn), because it supports so many DDNS providers ...
-- 💬 Ask me about #multicast 🤓 I maintain many #multicast daemons for UNIX: SMCRoute, pimd, mrouted, pimd-dense, and pimg6sd.  I've also made a few useful testing tools, for example [mcjoin](/troglobit/mcjoin) and [mping](/troglobit/mping)
+- 🔭 I’m working on [Finit](https://github.com/troglobit/finit), check out the latest releases and [blog posts](https://troglobit.com/tags/init/)
+- 👯 I’m looking to collaborate on [pim6sd](https://github.com/troglobit/pim6sd) and 🤔 help with [In-a-dyn](https://github.com/troglobit/inadyn), because it supports so many DDNS providers ...
+- 💬 Ask me about #multicast 🤓 I maintain many #multicast daemons for UNIX: SMCRoute, pimd, mrouted, pimd-dense, and pimg6sd.  I've also made a few useful testing tools, for example [mcjoin](https://github.com/troglobit/mcjoin) and [mping](https://github.com/troglobit/mping)
 
 > ⚡ Fun fact: I rarely travel anywhere (expensive + environment), but my code does.
->    I recently got word that [SMCRoute](/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😅
+>    I recently got word that [SMCRoute](https://github.com/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😅
 
 ---
 
