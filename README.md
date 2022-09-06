@@ -6,7 +6,8 @@
 
 🌱 I’m (re)learning how to be a consultant again, having been at a product company for 15+ years!  
 This means I'm now available for contracting though my employer 😎
-- 📫 How to reach me: through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/).  Or patiently wait for me to read my email -- customers and sponsors (!) take precedence. 
+- 📫 How to reach me: through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/).  
+     Or patiently wait for me to read my email -- customers and sponsors (!) take precedence. 
 
 - 🔭 I’m working on [Finit](https://github.com/troglobit/finit), check out the latest releases and [blog posts](https://troglobit.com/tags/init/)
 - 👯 I’m looking to collaborate on [pim6sd](https://github.com/troglobit/pim6sd) and 🤔 help with [In-a-dyn](https://github.com/troglobit/inadyn), because it supports so many DDNS providers ...
