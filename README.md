@@ -16,7 +16,7 @@ This means I'm now available for contracting though my employer 😎
 - 💬 Ask me about #multicast 🤓 I maintain many #multicast daemons for UNIX: [SMCRoute](https://github.com/troglobit/smcroute), [pimd](https://github.com/troglobit/pimd), [mrouted](https://github.com/troglobit/mrouted), [pimd-dense](https://github.com/troglobit/pimd-dense), and [pimg6sd](https://github.com/troglobit/pimg6sd).  I've also made a few useful testing tools, for example [mcjoin](https://github.com/troglobit/mcjoin) and [mping](https://github.com/troglobit/mping)
 
 > ⚡ Fun fact: I rarely travel (expensive + environment), but my code does.
->    A while back I learnedthat [SMCRoute](https://github.com/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😅
+>    A while back I learned that [SMCRoute](https://github.com/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😅
 
 ---
 
