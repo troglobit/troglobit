@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Joachim 👋
 
-🌱 After 15+ years at [Westermo](https://github.com/westermo), I'm now back working as a consultant!  
+🌱 After 16+ years at [Westermo](https://github.com/westermo), I'm now back working as a consultant!  
 
 - 📫 Reach me through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/)
 - 🔭 The project I enjoy most working on is [Finit](https://github.com/troglobit/finit), check out the latest releases and [blog posts](https://troglobit.com/tags/init/)
