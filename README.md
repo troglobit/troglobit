@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Joachim 👋
 
-🌱 After 16+ years at [Westermo](https://github.com/westermo), where I created things like WeOS, I'm now back working as a consultant!
+🌱 After 16+ years at an [Industrial Networking Company](https://github.com/westermo), I'm back working as a consultant.  See my [resumé here](https://resume.troglobit.com/).
 
 - 📫 Reach me through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/)
 - 🔭 The projects I enjoy most working on are [Finit](https://github.com/troglobit/finit) and [Infix](https://github.com/kernelkit/infix), check out the latest releases of Finit, including [blog posts](https://troglobit.com/tags/init/)
