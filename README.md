@@ -11,9 +11,9 @@
 - 👯 I’m looking to find collaborators on:
   - [pim6sd](https://github.com/troglobit/pim6sd) and [pimd](https://github.com/troglobit/pimd), because my spare time is not enough
   - [In-a-dyn](https://github.com/troglobit/inadyn), because it supports so many [DDNS](https://en.wikipedia.org/wiki/Dynamic_DNS) providers
-- 💬 Ask me about #multicast 🤓 I maintain many #multicast daemons for UNIX: [SMCRoute](https://github.com/troglobit/smcroute), [pimd](https://github.com/troglobit/pimd), [mrouted](https://github.com/troglobit/mrouted), [pimd-dense](https://github.com/troglobit/pimd-dense), and [pimg6sd](https://github.com/troglobit/pimg6sd).  I've also made a few useful testing tools, for example [mcjoin](https://github.com/troglobit/mcjoin) and [mping](https://github.com/troglobit/mping)
+- 💬 They call me #MrMulticast and maybe I sometimes know what I'm talking about 🤓 I maintain many #multicast daemons for UNIX: [SMCRoute](https://github.com/troglobit/smcroute), [pimd](https://github.com/troglobit/pimd), [mrouted](https://github.com/troglobit/mrouted), [pimd-dense](https://github.com/troglobit/pimd-dense), and [pimg6sd](https://github.com/troglobit/pimg6sd).  I've also made a few useful testing tools, for example [mcjoin](https://github.com/troglobit/mcjoin) and [mping](https://github.com/troglobit/mping)
 
-> ⚡ [SMCRoute](https://github.com/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😎
+> ⚡ Fun fact: [SMCRoute](https://github.com/troglobit/smcroute) handles readout packets for the South Pole Telescope in Antarctica! 😎
 
 ---
 
