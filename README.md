@@ -1,4 +1,4 @@
-> 📫 For paid/consultancy work, each me through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/)
+> 📫 For paid/consultancy work, reach me through my employer, [Addiva Elektronik](https://www.addiva.se/electronics/), talk to [Lennart](https://www.addiva.se/contact/)
 
 <!--
  - [Finit](https://github.com/troglobit/finit) ([blog posts](https://troglobit.com/tags/init/))
