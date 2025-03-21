@@ -1,4 +1,4 @@
-> 📫 For paid/consultancy work on projects like [Infix](https://github.com/kernelkit/infix)/[Finit](https://github.com/troglobit/finit)/[SMCRoute](https://github.com/troglobit/smcroute) etc., reach me through my employer, [Wires](https://www.wires.se/), talk to [Lennart Liljeström](mailto:lennart.liljestrom@wires.se)
+> 📫 For paid/consultancy work on projects like [Infix](https://github.com/kernelkit/infix)/[Finit](https://github.com/troglobit/finit)/[In-a-Dyn](https://github.com/troglobit/inadyn)/[SMCRoute](https://github.com/troglobit/smcroute) etc., reach me through my employer, [Wires](https://www.wires.se/), talk to [Lennart Liljeström](mailto:lennart.liljestrom@wires.se)
 
 <!--
  - [Finit](https://github.com/troglobit/finit) ([blog posts](https://troglobit.com/tags/init/))
