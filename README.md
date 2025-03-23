@@ -1,4 +1,13 @@
-> 📫 For paid/consultancy work on projects like [Infix](https://github.com/kernelkit/infix)/[Finit](https://github.com/troglobit/finit)/[In-a-Dyn](https://github.com/troglobit/inadyn)/[SMCRoute](https://github.com/troglobit/smcroute) etc., reach me through my employer, [Wires](https://www.wires.se/), talk to [Lennart Liljeström](mailto:lennart.liljestrom@wires.se)
+📫 For paid/consultancy work on Open Source projects, like those listed below, reach me through my employer,<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Wires](https://www.wires.se/), talk to [Lennart Liljeström](mailto:lennart.liljestrom@wires.se):
+
+ - [Infix](https://github.com/kernelkit/infix) a Network Operating System 
+ - [Finit](https://github.com/troglobit/finit) your friendly and *Fast* Init system
+ - [In-a-Dyn](https://github.com/troglobit/inadyn) a DDNS client
+ - [SMCRoute](https://github.com/troglobit/smcroute) a static multicast router
+ - [watchdogd](https://github.com/troglobit/watchdogd) an advanced watchdog
+ - [sysklogd](https://github.com/troglobit/smcroute) an RFC5424 structured logging daemon
+
 
 <!--
  - [Finit](https://github.com/troglobit/finit) ([blog posts](https://troglobit.com/tags/init/))
